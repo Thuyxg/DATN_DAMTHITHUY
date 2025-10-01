@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DATN\\HotelManagement_OK-wzrcmw\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0C8B17-7E03-4FA2-AAAF-30122D3F66BF}|QLKS\\QLKS.csproj|e:\\datn\\hotelmanagement_ok-wzrcmw\\hotelmanagement\\qlks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C0C8B17-7E03-4FA2-AAAF-30122D3F66BF}|QLKS\\QLKS.csproj|solutionrelative:qlks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\DATN\\HotelManagement_OK-wzrcmw\\HotelManagement\\QLKS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QLKS\\MainWindow.xaml",
+              "ToolTip": "E:\\DATN\\HotelManagement_OK-wzrcmw\\HotelManagement\\QLKS\\MainWindow.xaml",
+              "RelativeToolTip": "QLKS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-30T11:18:52.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
